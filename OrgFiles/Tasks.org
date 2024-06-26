@@ -1,5 +1,4 @@
 * Inbox
-
 ** TODO Commit config updates
   [2020-10-09 Fri 10:05]
   [[file:~/Projects/Code/emacs-from-scratch/OrgFiles/Tasks.org::*Inbox][Inbox]]
@@ -9,7 +8,6 @@
   [[file:~/Projects/Code/emacs-from-scratch/init.el::"j" "Journal Entries"]]
 
 * Active
-
 ** NEXT Merge the PR                                                  :work:
 DEADLINE: <2020-10-12 Mon>
 ** NEXT Reply to John's e-mail                             :note:work:email:
